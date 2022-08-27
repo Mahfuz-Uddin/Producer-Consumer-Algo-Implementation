@@ -1,8 +1,12 @@
 # Producer-Consumer-Algo-Implementation
+
+
 Mahfuz Uddin
 CSCI 340 - OS
 3/30/2020
 Dr. John Svadlenka
+
+
 A write-up of my software design and an explanation of the issues I encountered and resolved.
 During the span of my time working on this project I encountered many issues and bugs
 across the board, which took more time to actually solve than actually writing the code. This
